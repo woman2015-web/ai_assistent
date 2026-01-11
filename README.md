@@ -6,7 +6,7 @@
 
 1.https://github.com/woman2015-web/ai_assistent/blob/main/IMG_20260111_220548_318.jpg
 
-2.
+2.https://github.com/woman2015-web/ai_assistent/blob/main/IMG_20260111_220555_033.jpg
 
 
 ## Описание проекта
