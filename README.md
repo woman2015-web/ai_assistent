@@ -3,7 +3,8 @@
 Ссылка на проект - https://t.me/AIkonsyltYogaBot
 
 Скриншоты проекта
-1.
+
+1.https://github.com/woman2015-web/ai_assistent/blob/main/IMG_20260111_220548_318.jpg
 
 2.
 
